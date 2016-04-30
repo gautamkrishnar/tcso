@@ -14,16 +14,18 @@ There are hundreds of programming languages out there. The aim of this project i
 You can make this project available in your favorite programming language. Just follow the steps below:
 
 1. Fork it!
-2. Male a local clone: 
-```sh
-git clone https://github.com/{YOUR_USERNAME}/tcso.git
-```
+2. Make a local clone: 
+  ```sh
+  git clone https://github.com/{YOUR_USERNAME}/tcso.git
+  ```
+
 3. Switch to the directory: `cd tcso` 
 4. Create a new folder for your language
-```sh
-mkdir your_language
-cd your_language
-```
+  ```sh
+  mkdir your_language
+  cd your_language
+  ```
+
 5. Create your new language branch: `git checkout -b language_name`
 6. Add your source code try catch stack overflow to the folder. 
  * Use external dependencies if and only if there is no other way of doing it natively.
