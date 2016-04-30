@@ -30,7 +30,7 @@ You can make this project available in your favorite programming language. Just 
 6. Add your source code try catch stack overflow to the folder. 
  * Use external dependencies if and only if there is no other way of doing it natively.
  * The catch block must be able to launch the web browser with the respective stack overflow search page of the error. The browser maybe either Firefox or Google chrome.
- * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your error message here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your error message here}
+ * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your-error-message-here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your-error-message-here}
  * Use error code or error description to get best result
  * Please try to make platform independent code. If the code is not platform independent then please use the naming convention: tcso_windows.cpp, tcso_linux.cpp
  * Add a readme.md to your language folder. You can use [this](https://github.com/gautamkrishnar/tcso/raw/master/javascript/readme.md) as a reference.
