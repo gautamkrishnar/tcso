@@ -41,7 +41,7 @@ You can make this project available in your favorite programming language. Just 
 9. Submit a pull request :smile:
 
 ##### Improving the existing TcSo
-You can browse the available profanity finding library and improve its code if needed and dont forget to submit a new pull request.
+You can browse the available TcSo and improve its code if needed and dont forget to submit a new pull request.
 
 
 ##### Not interested in coding?
