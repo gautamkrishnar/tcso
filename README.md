@@ -35,7 +35,7 @@ You can make this project available in your favorite programming language. Just 
  * Use error code or error description to get best result
  * Please try to make platform independent code. If the code is not platform independent then please use the naming convention: tcso_windows.cpp, tcso_linux.cpp
  * Add a readme.md to your language folder. You can use [this](https://github.com/gautamkrishnar/tcso/raw/master/javascript/readme.md) as a reference.
- * Add changes to git index by using `git add --all`
+ * Add changes to git index by using `git add --all .`
 7. Commit your changes: `git commit -am 'Added new language'`
 8. Push to the branch: `git push`
 9. Submit a pull request :smile:
