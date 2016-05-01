@@ -7,6 +7,7 @@ As you know that, today most of the developers waste their time by searching for
 TcSo is currently available for the following programming languages:
 * [JavaScript](https://github.com/gautamkrishnar/tcso/tree/master/javascript)
 * [C#](https://github.com/gautamkrishnar/tcso/tree/master/C%23)
+* [PHP](https://github.com/gautamkrishnar/tcso/tree/master/PHP)
 * More languages coming soon
 
 ### Contributing
