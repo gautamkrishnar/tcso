@@ -6,6 +6,7 @@ As you know that, today most of the developers waste their time by searching for
 ### Available Languages
 TcSo is currently available for the following programming languages:
 * [JavaScript](https://github.com/gautamkrishnar/tcso/tree/master/javascript)
+* More languages coming soon
 
 ### Contributing
 There are hundreds of programming languages out there. The aim of this project is to make the Try catch Stack Overflow available in all the programing languages under the globe. You can contribute to the project by:
@@ -30,17 +31,17 @@ You can make this project available in your favorite programming language. Just 
 6. Add your source code try catch stack overflow to the folder. 
  * Use external dependencies if and only if there is no other way of doing it natively.
  * The catch block must be able to launch the web browser with the respective stack overflow search page of the error. The browser maybe either Firefox or Google chrome.
- * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your error message here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your error message here}
+ * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your-error-message-here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your-error-message-here}
  * Use error code or error description to get best result
  * Please try to make platform independent code. If the code is not platform independent then please use the naming convention: tcso_windows.cpp, tcso_linux.cpp
  * Add a readme.md to your language folder. You can use [this](https://github.com/gautamkrishnar/tcso/raw/master/javascript/readme.md) as a reference.
- * Add changes to git index by using `git add --all`
+ * Add changes to git index by using `git add --all .`
 7. Commit your changes: `git commit -am 'Added new language'`
 8. Push to the branch: `git push`
 9. Submit a pull request :smile:
 
 ##### Improving the existing TcSo
-You can browse the available profanity finding library and improve its code if needed and dont forget to submit a new pull request.
+You can browse the available TcSo and improve its code if needed and dont forget to submit a new pull request.
 
 
 ##### Not interested in coding?
