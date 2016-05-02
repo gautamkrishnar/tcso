@@ -4,6 +4,6 @@
      )
      (catch Exception e 
      (
-         browse-url "http://clojuredocs.org"(.getMessage e)
+         browse-url "http://stackoverflow.com/search?q=[clojure]+"(.getMessage e)
      ))
 )
