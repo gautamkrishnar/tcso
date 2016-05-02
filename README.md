@@ -10,6 +10,7 @@ TcSo is currently available for the following programming languages:
 * [PHP](https://github.com/gautamkrishnar/tcso/tree/master/PHP)
 * [Java](https://github.com/gautamkrishnar/tcso/tree/master/java)
 * [Python](https://github.com/gautamkrishnar/tcso/tree/master/python)
+* [Ruby](https://github.com/gautamkrishnar/tcso/tree/master/ruby)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
