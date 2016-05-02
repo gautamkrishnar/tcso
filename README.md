@@ -61,3 +61,6 @@ This project is licensed under MIT licence. The source code of the works created
 
 ### Liked it?
 Hope you liked this project, please don't forget to give it a star :star:
+
+
+<sub><sup><b>Trademark:</b> The Stack overflow name and logos are trademarks of Stack Exchange Inc. The names and logos for sites and products operating on the Stack Exchange network are also trademarks of Stack Exchange Inc.</sub></sup>
