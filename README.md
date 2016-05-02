@@ -14,6 +14,7 @@ TcSo is currently available for the following programming languages:
 * [Python](https://github.com/gautamkrishnar/tcso/tree/master/python)
 * [Ruby](https://github.com/gautamkrishnar/tcso/tree/master/ruby)
 * [Perl](https://github.com/gautamkrishnar/tcso/tree/master/perl)
+* [CoffeeScript](https://github.com/gautamkrishnar/tcso/tree/master/coffeescript)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
