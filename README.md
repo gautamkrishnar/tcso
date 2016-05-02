@@ -56,7 +56,7 @@ If you are lazy enough to type something and you still want to see TcSo in your 
 If you are experiencing any bugs, don’t forget to open a [new issue](https://github.com/gautamkrishnar/tcso/issues/new). Please don’t forget to mention the language name.
 
 ### License
-This project is licensed under GPL3.0 licence.
+This project is licensed under MIT licence. The source code of the works created from this project need not to be made public.
 
 ### Liked it?
 Hope you liked this project, please don't forget to give it a star :star:
