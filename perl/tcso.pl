@@ -5,7 +5,7 @@ try {
      # try something wrong here
 }
 catch (e) {
-    my $url ="http://stackoverflow.com/search?q=[js]+".e.getMessage();
+    my $url ="http://stackoverflow.com/search?q=[perl]+".e.getMessage();
     my $platform = $^O;
     my $cmd;
     if    ($platform eq 'darwin')  { $cmd = "open \"$url\"";          } # Mac OS X

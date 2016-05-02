@@ -1,7 +1,7 @@
 begin
     # Try something wrong here  
 rescue  Exception => e
-    link = "http://stackoverflow.com/search?q=[js]+"+e.message
+    link = "http://stackoverflow.com/search?q=[ruby]+"+e.message
     if RbConfig::CONFIG['host_os'] =~ /mswin|mingw|cygwin/
         system "start #{link}"
     elsif RbConfig::CONFIG['host_os'] =~ /darwin/
