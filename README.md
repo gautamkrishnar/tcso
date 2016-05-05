@@ -18,6 +18,7 @@ TcSo is currently available for the following programming languages:
 * [AngularJS](https://github.com/gautamkrishnar/tcso/tree/master/AngularJS)
 * [AppleScript](https://github.com/gautamkrishnar/tcso/tree/master/Applescript)
 * [Clojure](https://github.com/gautamkrishnar/tcso/tree/master/clojure)
+* [Groovy](https://github.com/gautamkrishnar/tcso/tree/master/groovy)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
