@@ -19,6 +19,7 @@ TcSo is currently available for the following programming languages:
 * [AppleScript](https://github.com/gautamkrishnar/tcso/tree/master/Applescript)
 * [Clojure](https://github.com/gautamkrishnar/tcso/tree/master/clojure)
 * [Groovy](https://github.com/gautamkrishnar/tcso/tree/master/groovy)
+* [Haxe](https://github.com/gautamkrishnar/tcso/tree/master/haxe)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
