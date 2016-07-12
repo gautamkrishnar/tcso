@@ -8,4 +8,4 @@ This is the Python version of the Try catch stack overflow. Use the try catch bl
 Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
 
 ###### Contributors
-* {your-name-here}
+* [Adam Chainz](https://github.com/adamchainz):[Tidy python implementation #2](https://github.com/gautamkrishnar/tcso/pull/2)
