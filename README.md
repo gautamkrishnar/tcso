@@ -20,6 +20,8 @@ TcSo is currently available for the following programming languages:
 * [Clojure](https://github.com/gautamkrishnar/tcso/tree/master/clojure)
 * [Groovy](https://github.com/gautamkrishnar/tcso/tree/master/groovy)
 * [Haxe](https://github.com/gautamkrishnar/tcso/tree/master/haxe)
+* [Objective C](https://github.com/gautamkrishnar/tcso/tree/master/objective-c)
+* [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
