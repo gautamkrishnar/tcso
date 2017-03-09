@@ -6,7 +6,7 @@ This is the powershell version of the Try catch stack overflow. Use the try catc
 * A web browser
 
 #### Credits
-Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
+Developed by: [Asher Dratel](https://github.com/I71)
 
 ###### Contributors
-* [Asher Dratel](https://github.com/I71)
+* {your-nam-here}
