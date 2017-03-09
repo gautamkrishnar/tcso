@@ -1,5 +1,5 @@
 try {
-    Import-Csv -Path "dshjfka"
+    # Your error-generating code here
 }
 catch {
     Write-Error $_
