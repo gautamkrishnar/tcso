@@ -22,6 +22,7 @@ TcSo is currently available for the following programming languages:
 * [Haxe](https://github.com/gautamkrishnar/tcso/tree/master/haxe)
 * [Objective C](https://github.com/gautamkrishnar/tcso/tree/master/objective-c)
 * [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
+* [Powershell](https://github.com/gautamkrishnar/tcso/tree/master/Powershell)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
