@@ -1,11 +1,7 @@
 <?php
-try{
-	// Do something wrong here
-}
-catch(Exception $e)
-{
-	$msg=$e->getMessage();
-	echo "<script>window.open('http://stackoverflow.com/search?q=[php]+".$msg."', '_blank');</script>";
-}
 
-?>
+try {
+    // Do something wrong here
+} catch (\Exception $e) {
+    printf('<script>window.open("http://stackoverflow.com/search?q=[php]+%s", "_blank");</script>', $e->getMessage());
+}
