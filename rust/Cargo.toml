@@ -1,0 +1,8 @@
+[package]
+name = "tcso"
+version = "0.1.0"
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+
+[dependencies]
+open = "1.2.1"
+percent-encoding = "1.0.1"
