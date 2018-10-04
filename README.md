@@ -3,7 +3,7 @@
 
 Try Catch Stack overflow (TcSo) is a project that is inspired from an online meme on javascript and stack overflow:
 <img src="http://i.imgur.com/wlRwRYi.jpg" alt="tsso-meme">
-As you know that, today most of the developers waste their time by searching for the generated error on Google and finding out the right solution for those from stack overflow. What if we can fully automate this process. TcSo Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. So whenever a new exception occurs, it will automatically open the stack overflow page of that exception in your browser.
+As you know, most of the developers waste their time by searching for the generated error on Google and finding out the right solution for those from stack overflow. What if we can fully automate this process. TcSo Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. So whenever a new exception occurs, it will automatically open the stack overflow page of that exception in your browser.
 
 ### Available Languages
 TcSo is currently available for the following programming languages:
