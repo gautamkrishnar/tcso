@@ -24,6 +24,7 @@ TcSo is currently available for the following programming languages:
 * [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
 * [Powershell](https://github.com/gautamkrishnar/tcso/tree/master/Powershell)
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
+* [Go](https://github.com/gautamkrishnar/tcso/tree/master/go)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
