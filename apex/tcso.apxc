@@ -1,0 +1,13 @@
+public class tcso {
+
+    public PageReference handleException() {
+        PageReference pageRef;
+        try {
+            //if successful, set pageRef to return url
+        } catch(Exception e) {
+        	pageRef = new PageReference('http://www.stackoverflow.com/search?q=' + e.getMessage());
+        	pageRef.setRedirect(true);
+        }
+        return pageRef;
+    }
+}
