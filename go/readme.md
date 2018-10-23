@@ -10,5 +10,4 @@ Golang does not have exceptions such as try/catch/finally blocks. It has strict 
 Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
 
 ###### Contributors
-* Shailja Agarwala
-
+* {your-name-here}
