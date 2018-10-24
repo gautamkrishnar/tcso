@@ -7,7 +7,7 @@ Golang does not have exceptions such as try/catch/finally blocks. It has strict 
 * import runtime library of go by running -- go get github.com/go-openapi/runtime
 
 #### Credits
-Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
+Developed by: [Shailja Agarwala](https://github.com/sagarwala)
 
 ###### Contributors
 * {your-name-here}
