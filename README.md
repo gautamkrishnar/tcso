@@ -26,6 +26,7 @@ TcSo is currently available for the following programming languages:
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
 * [Go](https://github.com/gautamkrishnar/tcso/tree/master/go)
 * [Kotlin](https://github.com/gautamkrishnar/tcso/tree/master/kotlin)
+* [VB.NET](https://github.com/gautamkrishnar/tcso/tree/master/VB.NET)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
