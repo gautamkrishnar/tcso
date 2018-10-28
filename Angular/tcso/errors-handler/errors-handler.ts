@@ -13,7 +13,7 @@ export class ErrorsHandler implements ErrorHandler {
 
   handleError(error: Error | HttpErrorResponse) {       
     //do custom handling here 
-    let message=error.message.split(' ').slice(1)
+    let message=error.message.split(' ').slice(1,30)
     let search_message=error.name +' '+ message.join(' ')
     var xcb="http://stackoverflow.com/search?q=[Angular]+"+search_message;
     window.open(xcb, '_blank');
