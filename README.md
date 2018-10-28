@@ -15,6 +15,7 @@ TcSo is currently available for the following programming languages:
 * [Ruby](https://github.com/gautamkrishnar/tcso/tree/master/ruby)
 * [Perl](https://github.com/gautamkrishnar/tcso/tree/master/perl)
 * [CoffeeScript](https://github.com/gautamkrishnar/tcso/tree/master/coffeescript)
+* [Angular](https://github.com/gautamkrishnar/tcso/tree/master/Angular)
 * [AngularJS](https://github.com/gautamkrishnar/tcso/tree/master/AngularJS)
 * [AppleScript](https://github.com/gautamkrishnar/tcso/tree/master/Applescript)
 * [Clojure](https://github.com/gautamkrishnar/tcso/tree/master/clojure)
