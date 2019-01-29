@@ -9,4 +9,4 @@ This is the Haxe version of the Try catch stack overflow. Use the try catch bloc
 Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
 
 ###### Contributors
-* {your-nam-here}
+* {your-name-here}
