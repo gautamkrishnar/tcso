@@ -9,4 +9,4 @@ This is the javascript version of the Try catch stack overflow. Use the try catc
 Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
 
 ###### Contributors
-* {your-nam-here}
+* {your-name-here}
