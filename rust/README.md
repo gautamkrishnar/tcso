@@ -28,4 +28,4 @@ fn main() {
 Developed by: [panicbit](https://github.com/panicbit/)
 
 ## Contributors
-* {your-nam-here}
+* {your-name-here}

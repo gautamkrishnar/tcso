@@ -9,4 +9,4 @@ This is the powershell version of the Try catch stack overflow. Use the try catc
 Developed by: [Asher Dratel](https://github.com/I71)
 
 ###### Contributors
-* {your-nam-here}
+* {your-name-here}
