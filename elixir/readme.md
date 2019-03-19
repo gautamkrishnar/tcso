@@ -4,8 +4,8 @@ This is the Elixir version of the Try catch stack overflow. Use the try catch bl
 
 #### Credits
 
-Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
+Developed by: [Subramanya Chakravarthy](https://github.com/chakrihacker/)
 
 ###### Contributors
 
-- [Subramanya Chakravarthy](https://github.com/chakrihacker/)
+- 
