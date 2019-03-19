@@ -29,6 +29,7 @@ TcSo is currently available for the following programming languages:
 * [Kotlin](https://github.com/gautamkrishnar/tcso/tree/master/kotlin)
 * [VB.NET](https://github.com/gautamkrishnar/tcso/tree/master/VB.NET)
 * [Haskell](https://github.com/gautamkrishnar/tcso/tree/master/haskell)
+* [Elixir](https://github.com/gautamkrishnar/tcso/tree/master/elixir)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 ### Contributing
@@ -57,7 +58,7 @@ You can make this project available in your favorite programming language. Just 
  * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your-error-message-here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your-error-message-here}
  * Use error code or error description to get best result
  * Please try to make platform independent code. If the code is not platform independent then please use the naming convention: tcso_windows.cpp, tcso_linux.cpp
- * Add a readme.md to your language folder. You can use [this](https://github.com/gautamkrishnar/tcso/raw/master/javascript/readme.md) as a reference.
+ * Add a readme.md to your language folder. You can use [this](https://raw.githubusercontent.com/gautamkrishnar/tcso/master/language-readme-example.md) as a reference.
  * Add changes to git index by using `git add --all .`
 7. Commit your changes: `git commit -am 'Added new language'`
 8. Push to the branch: `git push`
