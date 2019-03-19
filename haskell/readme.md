@@ -8,7 +8,7 @@ runhaskell tcso.hs
 ```
 
 #### Credits
-Developed by: [Gautam krishna R](https://github.com/gautamkrishnar/)
+Developed by: [Alo Davi](https://github.com/alodavi)
 
 ###### Contributors
-* [Alo Davi](https://github.com/alodavi)
+* 
