@@ -1,0 +1,22 @@
+{
+  "name": "tcso",
+  "version": "1.0.0",
+  "description": "TcSo Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. So whenever a new exception occurs, it will automatically open the stack overflow page of that exception in your browser.",
+  "scripts": {
+    "test": "echo  Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautamkrishnar/tcso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautamkrishnar/tcso/issues"
+  },
+  "homepage": "https://github.com/gautamkrishnar/tcso#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.3.1"
+  }
+}
