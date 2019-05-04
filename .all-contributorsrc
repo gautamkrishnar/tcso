@@ -1,15 +1,15 @@
 {
   "projectName": "Nothing Private",
-  "projectOwner": "Gautam Krishna R",
+  "projectOwner": "gautamkrishnar",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
-  "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributorsPerLine": 7,
+  "imageSize": 100,
+  "contributorsPerLine": 6,
   "contributors": [
     {
       "login": "saihv",
