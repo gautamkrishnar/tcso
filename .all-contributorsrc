@@ -1,5 +1,5 @@
 {
-  "projectName": "Nothing Private",
+  "projectName": "tcso",
   "projectOwner": "gautamkrishnar",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -169,6 +169,15 @@
       "name": "Adam Johnson",
       "avatar_url": "https://avatars2.githubusercontent.com/u/857609?v=4",
       "profile": "https://adamj.eu/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "GiordanoGiaccaglia",
+      "name": "Giordano Giaccaglia",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/28041454?v=4",
+      "profile": "http://www.keysolutiondev.it",
       "contributions": [
         "code"
       ]
