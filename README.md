@@ -30,6 +30,7 @@ TcSo is currently available for the following programming languages:
 * [VB.NET](https://github.com/gautamkrishnar/tcso/tree/master/VB.NET)
 * [Haskell](https://github.com/gautamkrishnar/tcso/tree/master/haskell)
 * [Elixir](https://github.com/gautamkrishnar/tcso/tree/master/elixir)
+* [Delphi](https://github.com/gautamkrishnar/tcso/tree/master/Delphi)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 
