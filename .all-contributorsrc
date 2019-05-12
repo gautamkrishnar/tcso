@@ -181,6 +181,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rzkidev",
+      "name": "rzkidev",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/49202390?v=4",
+      "profile": "https://www.freecodecamp.org/rzki.dev",
+      "contributions": [
+        "doc",
+        "review"
+      ]
     }
   ]
 }
