@@ -191,6 +191,15 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "leovarmak",
+      "name": "Karthik Varma",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/14135553?v=4",
+      "profile": "https://karthikvarma.xyz",
+      "contributions": [
+        "review"
+      ]
     }
   ]
 }
