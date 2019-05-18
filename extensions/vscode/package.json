@@ -1,0 +1,20 @@
+{
+  "name": "tcso",
+  "displayName": "TcSo",
+  "description": "Try Catch Stack overflow (TcSo) Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.34.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "applescript",
+        "path": "./snippets/AppleScript.json"
+      }
+    ]
+  }
+}
