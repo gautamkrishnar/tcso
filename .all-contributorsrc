@@ -209,6 +209,15 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "Cheston",
+      "name": "Cheston",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17392063?v=4",
+      "profile": "http://cheston.dev",
+      "contributions": [
+        "code"
+      ]
     }
   ]
 }
