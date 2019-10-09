@@ -31,6 +31,10 @@ TcSo is currently available for the following programming languages:
 * [Haskell](https://github.com/gautamkrishnar/tcso/tree/master/haskell)
 * [Elixir](https://github.com/gautamkrishnar/tcso/tree/master/elixir)
 * [Delphi](https://github.com/gautamkrishnar/tcso/tree/master/Delphi)
+* [Delphi](https://github.com/gautamkrishnar/tcso/tree/master/Delphi)
+* [Perl](https://github.com/gautamkrishnar/tcso/tree/master/perl)
+* [VBScript](https://github.com/gautamkrishnar/tcso/tree/master/VBScript)
+* [AutoHotkey](https://github.com/gautamkrishnar/tcso/tree/master/AutoHotkey)
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
 
