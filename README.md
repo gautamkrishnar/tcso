@@ -1,4 +1,4 @@
-# <img src="tcso-icon.png" width="60px"> Try Catch Stack Overflow [![Join the chat at https://gitter.im/gautamkrishnar/tcso](https://badges.gitter.im/gautamkrishnar/tcso.svg)](https://gitter.im/gautamkrishnar/tcso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors)
+# <img src="tcso-icon.png" width="60px"> Try Catch Stack Overflow [![Join the chat at https://gitter.im/gautamkrishnar/tcso](https://badges.gitter.im/gautamkrishnar/tcso.svg)](https://gitter.im/gautamkrishnar/tcso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors)
 
 
 Try Catch Stack overflow (TcSo) is a project that is inspired from an online meme on javascript and stack overflow:
@@ -124,6 +124,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="http://gitshowcase.com/iepoch"><img src="https://avatars3.githubusercontent.com/u/7504929?v=4" width="100px;" alt="Stefan"/><br /><sub><b>Stefan</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=iepoch" title="Code">💻</a></td>
+    <td align="center"><a href="https://darpanjbora.github.io/portfolio/"><img src="https://avatars3.githubusercontent.com/u/14301996?v=4" width="100px;" alt="Darpan Jyoti Bora"/><br /><sub><b>Darpan Jyoti Bora</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=darpanjbora" title="Code">💻</a></td>
   </tr>
 </table>
 
