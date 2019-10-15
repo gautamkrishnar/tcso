@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "TcSo Is a collection of Try statements in all the programming languages under the globe which catches the exception and searches for the cause of the caught exception in the stack overflow automatically. So whenever a new exception occurs, it will automatically open the stack overflow page of that exception in your browser.",
   "scripts": {
-    "test": "echo  Error: no test specified\" && exit 1"
+    "test": "echo  Error: no test specified\" && exit 1",
+    "update-readme": "./update-readme"
   },
   "repository": {
     "type": "git",
