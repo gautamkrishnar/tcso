@@ -1,0 +1,46 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+
+// Get a list of directories for the languages
+const directories = fs.readdirSync('.', {
+        withFileTypes: true
+    })
+    .filter(entry => entry.isDirectory())
+    .map(directory => directory.name)
+    .filter(directory => !directory.startsWith('.'))
+    .sort();
+
+const file = fs.readFileSync('README.md').toString().split('\n');
+
+// Find the start and end of the languages section in the README
+const headerLine = file.findIndex(line => line === '### Available Languages');
+const sectionStart = file.slice(headerLine).findIndex(line => line.startsWith('*')) + headerLine;
+const sectionLength = file.slice(sectionStart).findIndex(line => !line.startsWith('*'));
+
+// Get a map of existing README lines for each directory
+const originalItems = {};
+file.slice(sectionStart, sectionStart + sectionLength).forEach(item => {
+    const re = /master\/([^)]*)/;
+    if (re.test(item)) {
+        const dir = item.match(re)[1].toLowerCase();
+        originalItems[dir] = item;
+    }
+});
+
+// Create the new available languages section for the README
+const newSection = directories.map(directory => {
+    const label = directory.split(/[-_ ]/).map(word => {
+        return word.charAt(0).toUpperCase() + word.slice(1)
+    }).join(' ');
+    const dir = encodeURIComponent(directory);
+
+    if (originalItems[dir.toLowerCase()]) {
+        return originalItems[dir.toLowerCase()];
+    }
+
+    return `* [${label}](https://github.com/gautamkrishnar/tcso/tree/master/${dir})`
+});
+
+file.splice(sectionStart, sectionLength, ...newSection);
+fs.writeFileSync('README.md', file.join('\n'));

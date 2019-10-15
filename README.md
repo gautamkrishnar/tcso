@@ -15,6 +15,7 @@ TcSo is currently available for the following programming languages:
 * [C++](https://github.com/gautamkrishnar/tcso/tree/master/C%2B%2B)
 * [Dart](https://github.com/gautamkrishnar/tcso/tree/master/Dart)
 * [Delphi](https://github.com/gautamkrishnar/tcso/tree/master/Delphi)
+* [F#](https://github.com/gautamkrishnar/tcso/tree/master/F%23)
 * [PHP](https://github.com/gautamkrishnar/tcso/tree/master/PHP)
 * [Powershell](https://github.com/gautamkrishnar/tcso/tree/master/Powershell)
 * [React](https://github.com/gautamkrishnar/tcso/tree/master/React)
@@ -50,12 +51,12 @@ There are hundreds of programming languages out there. The aim of this project i
 You can make this project available in your favorite programming language. Just follow the steps below:
 
 1. Fork it!
-2. Make a local clone: 
+2. Make a local clone:
   ```sh
   git clone https://github.com/{YOUR_USERNAME}/tcso.git
   ```
 
-3. Switch to the directory: `cd tcso` 
+3. Switch to the directory: `cd tcso`
 4. Create a new folder for your language
   ```sh
   mkdir your_language
@@ -63,7 +64,7 @@ You can make this project available in your favorite programming language. Just 
   ```
 
 5. Create your new language branch: `git checkout -b language_name`
-6. Add your source code try catch stack overflow to the folder. 
+6. Add your source code try catch stack overflow to the folder.
  * Use external dependencies if and only if there is no other way of doing it natively.
  * The catch block must be able to launch the web browser with the respective stack overflow search page of the error. The browser maybe either Firefox or Google chrome.
  * You can use stack overflow tags for filtering search results based on language see: http://stackoverflow.com/tags. For implementing a JavaScript TcSo you will have to open the page http://stackoverflow.com/search?q=[js]{Your-error-message-here}, Here [js] represents tag. If your language doesn't have a tag then omit the [tag] box. Then point your browser to http://stackoverflow.com/search?q={Your-error-message-here}
@@ -71,9 +72,10 @@ You can make this project available in your favorite programming language. Just 
  * Please try to make platform independent code. If the code is not platform independent then please use the naming convention: tcso_windows.cpp, tcso_linux.cpp
  * Add a readme.md to your language folder. You can use [this](https://raw.githubusercontent.com/gautamkrishnar/tcso/master/language-readme-example.md) as a reference.
  * Add changes to git index by using `git add --all .`
-7. Commit your changes: `git commit -am 'Added new language'`
-8. Push to the branch: `git push`
-9. Submit a pull request :smile:
+7. Update this README by running `yarn update-readme`
+8. Commit your changes: `git commit -am 'Added new language'`
+9. Push to the branch: `git push`
+10. Submit a pull request :smile:
 
 ##### Improving the existing TcSo
 You can browse the available TcSo and improve its code if needed and dont forget to submit a new pull request.
