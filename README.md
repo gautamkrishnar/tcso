@@ -40,6 +40,7 @@ TcSo is currently available for the following programming languages:
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
 * [Scala](https://github.com/gautamkrishnar/tcso/tree/master/scala)
 * [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
+* [Lisp](https://github.com/gautamkrishnar/tcso/tree/master/Lisp)
 
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
