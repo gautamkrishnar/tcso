@@ -136,6 +136,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jhanna60"><img src="https://avatars1.githubusercontent.com/u/13537877?v=4" width="100px;" alt="John"/><br /><sub><b>John</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=jhanna60" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Valdas3"><img src="https://avatars2.githubusercontent.com/u/9084046?v=4" width="100px;" alt="Valdas"/><br /><sub><b>Valdas</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=Valdas3" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jshayes"><img src="https://avatars0.githubusercontent.com/u/11275344?v=4" width="100px;" alt="Justin Hayes"/><br /><sub><b>Justin Hayes</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=jshayes" title="Code">💻</a></td>
+        <td align="center"><a href="https://github.com/rohitasnair"><img src="https://avatars2.githubusercontent.com/u/40546152?s=460&v=4" width="100px;" alt="Rohit A S Nair"/><br /><sub><b>Rohit A S Nair</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=rohitasnair" title="Code">💻</a></td>
   </tr>
 </table>
 
