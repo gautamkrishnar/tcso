@@ -1,4 +1,4 @@
-# <img src="tcso-icon.png" width="60px"> Try Catch Stack Overflow [![Join the chat at https://gitter.im/gautamkrishnar/tcso](https://badges.gitter.im/gautamkrishnar/tcso.svg)](https://gitter.im/gautamkrishnar/tcso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+# <img src="tcso-icon.png" width="60px"> Try Catch Stack Overflow [![Join the chat at https://gitter.im/gautamkrishnar/tcso](https://badges.gitter.im/gautamkrishnar/tcso.svg)](https://gitter.im/gautamkrishnar/tcso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors)
 
 
 Try Catch Stack overflow (TcSo) is a project that is inspired from an online meme on javascript and stack overflow:
@@ -136,7 +136,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jhanna60"><img src="https://avatars1.githubusercontent.com/u/13537877?v=4" width="100px;" alt="John"/><br /><sub><b>John</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=jhanna60" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Valdas3"><img src="https://avatars2.githubusercontent.com/u/9084046?v=4" width="100px;" alt="Valdas"/><br /><sub><b>Valdas</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=Valdas3" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jshayes"><img src="https://avatars0.githubusercontent.com/u/11275344?v=4" width="100px;" alt="Justin Hayes"/><br /><sub><b>Justin Hayes</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=jshayes" title="Code">💻</a></td>
-        <td align="center"><a href="https://github.com/rohitasnair"><img src="https://avatars2.githubusercontent.com/u/40546152?s=460&v=4" width="100px;" alt="Rohit A S Nair"/><br /><sub><b>Rohit A S Nair</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=rohitasnair" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rohitasnair"><img src="https://avatars3.githubusercontent.com/u/40546152?v=4" width="100px;" alt="ROHIT A S NAIR"/><br /><sub><b>ROHIT A S NAIR</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=rohitasnair" title="Code">💻</a></td>
   </tr>
 </table>
 
