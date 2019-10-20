@@ -1,0 +1,17 @@
+Function GetMenuChoice : Char;
+Var
+  OptionChosen : Char;
+Begin
+  repeat
+    Write('Please enter your choice: ');
+    Readln(OptionChosen);
+
+    If not (OptionChosen in ['1'..'4', '9'])
+      Then
+        Begin
+          Writeln;
+          Writeln('That was not one of the allowed options.  Please try again: ');
+        End;
+  until OptionChosen in ['1'..'4', '9'];
+  GetMenuChoice := OptionChosen;
+End;
