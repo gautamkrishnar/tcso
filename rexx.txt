@@ -1,0 +1,14 @@
+/* Main program */ 
+signal on error 
+signal on failure 
+signal on syntax 
+signal on novalue beep(1) 
+signal off error 
+signal off failure
+signal off syntax 
+signal off novalue 
+exit 0 
+error: failure: syntax: novalue: 
+say 'An error has occured'
+
+
