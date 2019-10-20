@@ -1,0 +1,12 @@
+try Expression of 
+SuccessfulPattern1 [Guards] -> 
+Expression1; 
+SuccessfulPattern2 [Guards] -> 
+Expression2 
+
+catch 
+TypeOfError:ExceptionPattern1 -> 
+Expression3; 
+TypeOfError:ExceptionPattern2 -> 
+Expression4 
+end
