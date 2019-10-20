@@ -1,0 +1,32 @@
+class A feature
+    do_something
+        do
+            nested.whatever
+            if nested.has_error then
+                log.error ("Cannot complete operation X.")
+            end
+        end
+    has_error: BOOLEAN do Result := nested.has_error end
+feature {NONE}
+    nested: B
+end
+
+class B feature
+    whatever
+        do
+            nested.try_something
+            if nested.has_error then
+                -- An error has been reported by "nested".
+            elseif something_else_goes_wrong then
+                has_inner_error := True
+                log.error ("Something goes wrong.")
+           elseif has_minor_issues then
+                 log.warning ("Be careful.")
+            end
+        end
+    has_error: BOOLEAN do Result := nested.has_error or has_inner_error end
+    has_inner_error: BOOLEAN
+            -- Some error that is not one of the errors reported by `nested'.
+feature {NONE}
+   nested: C
+end
