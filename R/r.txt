@@ -1,0 +1,37 @@
+urls <- c(
+    "http://stat.ethz.ch/R-manual/R-devel/library/base/html/connections.html",
+    "http://en.wikipedia.org/wiki/Xz",
+    "xxxxx"
+)
+readUrl <- function(url) {
+    out <- tryCatch(
+        {
+  
+
+            message("This is the 'try' part")
+
+            readLines(con=url, warn=FALSE) 
+           
+        },
+        error=function(cond) {
+            message(paste("URL does not seem to exist:", url))
+            message("Here's the original error message:")
+            message(cond)
+            # Choose a return value in case of error
+            return(NA)
+        },
+        warning=function(cond) {
+            message(paste("URL caused a warning:", url))
+            message("Here's the original warning message:")
+            message(cond)
+     
+            return(NULL)
+        },
+        finally={
+         
+            message(paste("Processed URL:", url))
+            message("Some other message at the end")
+        }
+    )    
+    return(out)
+}
