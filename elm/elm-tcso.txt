@@ -1,0 +1,15 @@
+this.gridverify = function (a) {
+    browser.sleep(10000); // Why this needed? Can you update to .wait() ?
+    var elm = element(by.xpath("//div[@title='" + a + "']"));
+    elm.isPresent().then(present => {
+        if (present) {
+            elm.getText().then(function (x) {
+                console.log("text Prevails: " + x);
+            })
+        } else {
+            console.log('element not present');
+        }
+    }, err => {
+        console.log('error occured', err);
+    })
+}
