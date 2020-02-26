@@ -272,6 +272,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "U-siro",
+      "name": "Siro",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3070987?v=4",
+      "profile": "http://nosue.me",
+      "contributions": [
+        "code"
+      ]
     }
-  ]
+  ],
+  "skipCi": true
 }
