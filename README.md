@@ -40,6 +40,7 @@ TcSo is currently available for the following programming languages:
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
 * [Scala](https://github.com/gautamkrishnar/tcso/tree/master/scala)
 * [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
+* [Vue.js](https://github.com/gautamkrishnar/tcso/tree/master/Vue.js)
 
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
@@ -137,6 +138,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Valdas3"><img src="https://avatars2.githubusercontent.com/u/9084046?v=4" width="100px;" alt=""/><br /><sub><b>Valdas</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=Valdas3" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jshayes"><img src="https://avatars0.githubusercontent.com/u/11275344?v=4" width="100px;" alt=""/><br /><sub><b>Justin Hayes</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=jshayes" title="Code">💻</a></td>
     <td align="center"><a href="http://nosue.me"><img src="https://avatars1.githubusercontent.com/u/3070987?v=4" width="100px;" alt=""/><br /><sub><b>Siro</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=U-siro" title="Code">💻</a></td>
+    <td align="center"><a href="http://nosue.me"><img src="https://avatars2.githubusercontent.com/u/926821?v=4" width="100px;" alt=""/><br /><sub><b>vinmaster</b></sub></a><br /><a href="https://github.com/gautamkrishnar/tcso/commits?author=vinmaster" title="Code">💻</a></td>
   </tr>
 </table>
 
