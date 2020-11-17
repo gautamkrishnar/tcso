@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -17,4 +17,9 @@ jobs:
         with:
           node-version: 12
       - run: npm run update-readme
-      - run: git add README.md && git commit -m "Updated readme" && git push
+      - run: |
+          git config user.name gkr-bot
+          git config user.email gkr@tuta.io
+          git add README.md
+          git commit -m "Updated readme"
+          git push
