@@ -17,6 +17,7 @@ TcSo is currently available for the following programming languages:
 * [Delphi](https://github.com/gautamkrishnar/tcso/tree/master/Delphi)
 * [F#](https://github.com/gautamkrishnar/tcso/tree/master/F%23)
 * [PHP](https://github.com/gautamkrishnar/tcso/tree/master/PHP)
+* [Pascal](https://github.com/gautamkrishnar/tcso/tree/master/Pascal)
 * [Powershell](https://github.com/gautamkrishnar/tcso/tree/master/Powershell)
 * [React](https://github.com/gautamkrishnar/tcso/tree/master/React)
 * [Typescript](https://github.com/gautamkrishnar/tcso/tree/master/Typescript)
