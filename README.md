@@ -22,6 +22,7 @@ TcSo is currently available for the following programming languages:
 * [Typescript](https://github.com/gautamkrishnar/tcso/tree/master/Typescript)
 * [VB.NET](https://github.com/gautamkrishnar/tcso/tree/master/VB.NET)
 * [VBScript](https://github.com/gautamkrishnar/tcso/tree/master/VBScript)
+* [Vue.js](https://github.com/gautamkrishnar/tcso/tree/master/Vue.js)
 * [Apex](https://github.com/gautamkrishnar/tcso/tree/master/apex)
 * [Clojure](https://github.com/gautamkrishnar/tcso/tree/master/clojure)
 * [CoffeeScript](https://github.com/gautamkrishnar/tcso/tree/master/coffeescript)
@@ -33,6 +34,7 @@ TcSo is currently available for the following programming languages:
 * [Java](https://github.com/gautamkrishnar/tcso/tree/master/java)
 * [JavaScript](https://github.com/gautamkrishnar/tcso/tree/master/javascript)
 * [Kotlin](https://github.com/gautamkrishnar/tcso/tree/master/kotlin)
+* [Node](https://github.com/gautamkrishnar/tcso/tree/master/node)
 * [Objective C](https://github.com/gautamkrishnar/tcso/tree/master/objective-c)
 * [Perl](https://github.com/gautamkrishnar/tcso/tree/master/perl)
 * [Python](https://github.com/gautamkrishnar/tcso/tree/master/python)
@@ -40,7 +42,6 @@ TcSo is currently available for the following programming languages:
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
 * [Scala](https://github.com/gautamkrishnar/tcso/tree/master/scala)
 * [Swift](https://github.com/gautamkrishnar/tcso/tree/master/swift)
-* [Vue.js](https://github.com/gautamkrishnar/tcso/tree/master/Vue.js)
 
 * More languages coming soon. Don't forget to add your favourite favorite programming language.
 
