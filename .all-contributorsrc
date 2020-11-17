@@ -281,6 +281,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Shin-Aska",
+      "name": "Richard Orilla",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8596711?v=4",
+      "profile": "https://www.richardorilla.website/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "skipCi": true
