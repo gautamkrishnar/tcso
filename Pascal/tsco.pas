@@ -5,7 +5,7 @@ uses sysutils, LclIntf;
 
 begin
     try;
-        raise Exception.Create('lclintf');
+        (* Raise code exception here *)
     except
         on E: Exception do 
             OpenURL('http://stackoverflow.com/search?q=[Pascal]+' + E.Message);
