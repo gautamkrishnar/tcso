@@ -21,5 +21,5 @@ jobs:
           git config user.name gkr-bot
           git config user.email gkr@tuta.io
           git add README.md
-          git commit -m "Updated readme"
+          git diff-index --quiet HEAD || git commit -m "Updated readme"
           git push
