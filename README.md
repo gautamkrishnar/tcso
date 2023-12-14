@@ -39,6 +39,7 @@ TcSo is currently available for the following programming languages:
 * [Objective C](https://github.com/gautamkrishnar/tcso/tree/master/objective-c)
 * [Perl](https://github.com/gautamkrishnar/tcso/tree/master/perl)
 * [Python](https://github.com/gautamkrishnar/tcso/tree/master/python)
+* [R](https://github.com/gautamkrishnar/tcso/tree/master/r)
 * [Ruby](https://github.com/gautamkrishnar/tcso/tree/master/ruby)
 * [Rust](https://github.com/gautamkrishnar/tcso/tree/master/rust)
 * [Scala](https://github.com/gautamkrishnar/tcso/tree/master/scala)
