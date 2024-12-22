@@ -1,5 +1,7 @@
 # <img src="tcso-icon.png" width="60px"> Try Catch Stack Overflow [![Join the chat at https://gitter.im/gautamkrishnar/tcso](https://badges.gitter.im/gautamkrishnar/tcso.svg)](https://gitter.im/gautamkrishnar/tcso?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
 
+> [!WARNING]  
+> This project is no longer maintained. No one uses stack overflow anymore. Thanks to the AI overlords. 🤣
 
 Try Catch Stack overflow (TcSo) is a project that is inspired from an online meme on javascript and stack overflow:
 <img src="http://i.imgur.com/wlRwRYi.jpg" alt="tsso-meme">
